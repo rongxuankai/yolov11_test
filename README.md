@@ -1,2 +1,2 @@
-# yolov11_test
-yolov11模型的一些小项目
+# yolov11姿势监测测
+基于yolov11模型的小项目
